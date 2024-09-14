@@ -32,9 +32,9 @@ A simple weather app built with Flutter and Dart. This app provides weather data
    ```
 
 2. Navigate to the repository
-  ```bash
-  cd weatherapp
-  ```
+   ```bash
+     cd weatherapp
+   ```
 
 3. Install dependencies:
    ```bash
