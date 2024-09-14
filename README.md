@@ -55,7 +55,7 @@ http: For fetching weather data from a weather API (OpenWeatherMap).
 ## API Setup
 To get weather data, you will need to sign up for an API key from OpenWeatherMap.
 1. Create an account and get an API key.
-2. Add your API key to the app in the appropriate file (e.g., lib/api_service.dart):
+2. Add your API key to the app in the appropriate file (e.g., lib/services/weather_service.dart):
 ```dart
 const String apiKey = 'YOUR_API_KEY';
 ```
