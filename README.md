@@ -10,7 +10,11 @@ A simple weather app built with Flutter and Dart. This app provides weather data
 
 ## Screenshots
 
-(Add some screenshots here)
+![cloudy](https://github.com/user-attachments/assets/82cbc0b6-49b7-4ebb-8d28-dd80f988917e)
+![cloudy1](https://github.com/user-attachments/assets/dfeb2310-4b5e-4d16-b482-79505fb3907a)
+![clear1](https://github.com/user-attachments/assets/1779ed2d-a8f4-4eae-8ecc-223f787e2b9e)
+![clear](https://github.com/user-attachments/assets/251cfa8d-f15d-41ed-8629-4d7b982caad2)
+
 
 ## Getting Started
 
@@ -30,16 +34,16 @@ A simple weather app built with Flutter and Dart. This app provides weather data
 2. Navigate to the repository
   ```bash
   cd weatherapp
-```
+  ```
 
 3. Install dependencies:
    ```bash
    flutter pub get
    ```
 4. Run the app
-```bash
-flutter run
-```
+   ```bash
+   flutter run
+   ```
 
 ## Dependencies
 This project uses the following dependencies:
@@ -63,9 +67,5 @@ This project is licensed under the MIT License.
 ```
 Feel free to modify the content, add screenshots, and include any additional details specific to your project.
 ```
-![cloudy](https://github.com/user-attachments/assets/82cbc0b6-49b7-4ebb-8d28-dd80f988917e)
-![cloudy1](https://github.com/user-attachments/assets/dfeb2310-4b5e-4d16-b482-79505fb3907a)
-![clear1](https://github.com/user-attachments/assets/1779ed2d-a8f4-4eae-8ecc-223f787e2b9e)
-![clear](https://github.com/user-attachments/assets/251cfa8d-f15d-41ed-8629-4d7b982caad2)
 
 
